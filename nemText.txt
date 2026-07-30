@@ -6,3 +6,8 @@ We are going to need to prepare a lot of boiler plate - probably justified becau
 Reducers : can be multiple for different responsibilities.
 --
 We make a store and give it the access to whole application.
+--
+We may have multiple reducers - what we have to do is combine all reducers and export them as a single reducer function. (Yes, reducer is a function)
+We do it with a index.js file inside the reducer folder.
+---
+Redux thunk helps to execute asynchronous functions.
