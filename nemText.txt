@@ -1,0 +1,2 @@
+Remeber href="" reloads the page necessarily.
+npm i redux react-redux redux-thunk
