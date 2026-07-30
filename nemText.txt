@@ -1,2 +1,8 @@
 Remeber href="" reloads the page necessarily.
 npm i redux react-redux redux-thunk
+
+We are going to need to prepare a lot of boiler plate - probably justified because of its usefullness in very complex projects that justifies the size of boiler plate.
+
+Reducers : can be multiple for different responsibilities.
+--
+We make a store and give it the access to whole application.
